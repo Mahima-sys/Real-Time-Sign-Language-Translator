@@ -6,7 +6,7 @@ An AI-powered real-time Sign Language Translator that recognizes hand gestures u
 
 ---
 
-## ✨ FEARURES
+## ✨ FEATURES 
 
 - 🖐️ Real-time hand landmark detection
 - 🔤 Sign language alphabet recognition (A–Z)
