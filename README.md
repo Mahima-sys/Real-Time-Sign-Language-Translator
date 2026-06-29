@@ -2,6 +2,8 @@
 
 An AI-powered real-time Sign Language Translator that recognizes hand gestures using **MediaPipe** and **Machine Learning**, converts them into text, and speaks the recognized output using **Text-to-Speech (TTS)**.
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/68d355f3-905a-407e-9651-7dd35f2a7b32" />
+
 ---
 
 ## ✨ FEARURES
